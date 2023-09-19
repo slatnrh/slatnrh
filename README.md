@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seong.Ho&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seung_Ho&fontSize=90)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slatnrh&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slatnrh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
