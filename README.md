@@ -1,12 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seung_Ho&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=Seung_Ho&fontSize=75)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slatnrh&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slatnrh&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slatnrh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 **Solved.ac(Baekjoon) Profile**
 
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=slatnrh)](https://solved.ac/slatnrh)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=slatnrh)](https://solved.ac/slatnrh)
 
 ---
 
