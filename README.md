@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seong.Ho&fontSize=90)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slatnrh&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slatnrh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 **Solved.ac(Baekjoon) Profile**
 
@@ -7,13 +10,13 @@
 
 ---
 
-**Main Stacks**
+**Most Used**
 
 <a target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white"/></a>
 
 
-**Sub Stacks**(Used at least once)
+**Learning**(Used at least once)
 
 <a target="_blank"><img src="https://img.shields.io/badge/nodeJS-darkgreen?style=flat-square&logo=node.js&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white"/></a>
