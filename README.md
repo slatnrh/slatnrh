@@ -1,16 +1,25 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DongHyun%20Jo&fontSize=90)
 
-<!--
-**slatnrh/slatnrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+**Solved.ac(Baekjoon) Profile**
 
-Here are some ideas to get you started:
+[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=slatnrh)](https://solved.ac/slatnrh)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Main Stacks**
+
+<a target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white"/></a>
+
+
+**Sub Stacks**(Used at least once)
+
+<a target="_blank"><img src="https://img.shields.io/badge/nodeJS-darkgreen?style=flat-square&logo=node.js&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
+
+
+
+
+<!-- <a target="_blank"><img src="https://img.shields.io/badge/C/C++-blue?style=flat-square&logo=C%2b%2b&logoColor=white"/></a> -->
