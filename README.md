@@ -24,6 +24,13 @@
 <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
 
 
+**Would Study**
+
+<a target="_blank"><img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=html5&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/mongoDB-white?style=flat-square&logo=MongoDB&logoColor=darkgreen"/></a>
+
 
 
 <!-- <a target="_blank"><img src="https://img.shields.io/badge/C/C++-blue?style=flat-square&logo=C%2b%2b&logoColor=white"/></a> -->
