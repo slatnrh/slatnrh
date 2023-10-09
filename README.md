@@ -24,7 +24,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
 
 
-**Would Study**
+**Would Learn**
 
 <a target="_blank"><img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=html5&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white"/></a>
