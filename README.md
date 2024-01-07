@@ -36,4 +36,4 @@
 <!-- <a target="_blank"><img src="https://img.shields.io/badge/C/C++-blue?style=flat-square&logo=C%2b%2b&logoColor=white"/></a> -->
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](github.com/slatnrh/github-profile-3d-contrib/profile-green-animate.svg)
