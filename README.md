@@ -31,6 +31,6 @@
 <a target="_blank"><img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/mongoDB-white?style=flat-square&logo=MongoDB&logoColor=darkgreen"/></a>
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg)
+
 
 <!-- <a target="_blank"><img src="https://img.shields.io/badge/C/C++-blue?style=flat-square&logo=C%2b%2b&logoColor=white"/></a> -->
